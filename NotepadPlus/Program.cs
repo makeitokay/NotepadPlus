@@ -4,12 +4,12 @@ using System.Windows.Forms;
 namespace NotepadPlus
 {
     /// <summary>
-    /// Главный исполняемый класс программы.
+    /// Р“Р»Р°РІРЅС‹Р№ РёСЃРїРѕР»РЅСЏРµРјС‹Р№ РєР»Р°СЃСЃ РїСЂРѕРіСЂР°РјРјС‹.
     /// </summary>
     internal static class Program
     {
         /// <summary>
-        /// Входная точка в приложение.
+        /// Р’С…РѕРґРЅР°СЏ С‚РѕС‡РєР° РІ РїСЂРёР»РѕР¶РµРЅРёРµ.
         /// </summary>
         [STAThread]
         static void Main()
